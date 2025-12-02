@@ -1,6 +1,6 @@
-# Tugas Praktikum 11 - Model View ViewModel (TP10DPBO2425C1)
+# Tugas Praktikum 10 - Model View ViewModel (TP10DPBO2425C1)
 
-Saya **Mochammad Azka Basria** dengan NIM **2405170** mengerjakan Tugas Praktikum 11 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya **Mochammad Azka Basria** dengan NIM **2405170** mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 _Repository_ ini merupakan implementasi pola arsitektur **MVVM (Model-View-ViewModel)** menggunakan bahasa **PHP Native** dengan tema **Sistem Manajemen Perpustakaan**. Program ini mendemonstrasikan pemisahan yang jelas antara logika bisnis, data, dan antarmuka pengguna, serta menerapkan konsep _Data Binding_ sederhana (Server-Side) dan operasi database CRUD (Create, Read, Update, Delete).
 
@@ -168,4 +168,4 @@ Hasil _fetching_ data dari database menggunakan `PDO::FETCH_ASSOC` yang menghasi
 
 # Dokumentasi Program (Video)
 
-<video controls src="dokumentasi/2025-12-02 08-59-19.mp4" title="Title"></video>
+![dokumentasi](dokumentasi/demo_project.mp4)
